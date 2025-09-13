@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "retail-demand-forecasting",
+    "title": "Retail Demand Forecasting",
+    "summary": "Gradient boosting + holiday features → 18% sMAPE improvement.",
+    "tags": ["Time Series", "Tabular", "XGBoost"],
+    "year": 2025,
+    "metrics": [
+      {"name": "sMAPE", "value": "12.4%"},
+      {"name": "Lift", "value": "+18%"}
+    ],
+    "repo": "https://github.com/you/retail-forecast",
+    "demo": "https://huggingface.co/spaces/you/retail-forecast-demo",
+    "thumbnail": "assets/thumbs/forecast.png"
+  }
+]
